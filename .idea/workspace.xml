@@ -28,12 +28,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="636" />
+          <entry key="py" value="656" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="636" />
+          <entry key="Python" value="656" />
         </counts>
       </usages-collector>
     </session>
@@ -52,12 +52,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source/MainMaps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="239">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
               <folding>
                 <element signature="e#173#190#0" expanded="true" />
-                <marker date="1543690419003" expanded="true" signature="304:309" ph="..." />
-                <marker date="1543690419003" expanded="true" signature="304:771" ph="..." />
+                <marker date="1543691816204" expanded="true" signature="383:388" ph="..." />
+                <marker date="1543691816204" expanded="true" signature="383:850" ph="..." />
               </folding>
             </state>
           </provider>
@@ -111,6 +111,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -124,11 +128,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="89" />
+    <option name="x" value="132" />
+    <option name="y" value="99" />
     <option name="width" value="1550" />
     <option name="height" value="947" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,7 +160,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -306,7 +311,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="89" width="1550" height="947" extended-state="0" />
+    <frame x="132" y="99" width="1550" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31349206" />
@@ -371,12 +377,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/MainMaps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="239">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
           <folding>
             <element signature="e#173#190#0" expanded="true" />
-            <marker date="1543690419003" expanded="true" signature="304:309" ph="..." />
-            <marker date="1543690419003" expanded="true" signature="304:771" ph="..." />
+            <marker date="1543691816204" expanded="true" signature="383:388" ph="..." />
+            <marker date="1543691816204" expanded="true" signature="383:850" ph="..." />
           </folding>
         </state>
       </provider>

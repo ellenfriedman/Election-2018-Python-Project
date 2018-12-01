@@ -4,7 +4,7 @@
 # Final Project
 #
 # MainMaps.py
-
+# added to GitHub https://github.com/ellenfriedman/Election-2018-Python-Project
 # Starting point for the creating maps from results of Governor's 2018 races in AZ, CO, MN
 
 import AZTranform
@@ -41,6 +41,7 @@ def main():
 
     # Create a plotly choropleth map of AZ, CO and MN superimposed on the USA
     ElectionDataSets = []
+    
     ElectionDataSets.append(pd.read_csv("../datasets/mn/MinnesotaGovernorByCounty.txt"))
     ElectionDataSets.append(pd.read_csv("../datasets/az/ArizonaGovernorByCounty.txt"))
     ElectionDataSets.append(pd.read_csv("../datasets/co/ColoradoGovernorByCounty.txt"))
